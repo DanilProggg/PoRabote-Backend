@@ -1,6 +1,6 @@
 # PoRabote — Backend
 
-REST API for **PoRabote** ("For Work"), a job-board app connecting job seekers and employers through vacancies and resumes. This repo is the backend service; the companion [PoRabote Frontend](../PoRabote-Frontend) repo provides the Angular web UI.
+REST API for **PoRabote** ("For Work"), a job-board app connecting job seekers and employers through vacancies and resumes. This repo is the backend service; the companion [PoRabote Frontend](https://github.com/DanilProggg/PoRabote-Frontend) repo provides the Angular web UI.
 
 ## What it does
 
